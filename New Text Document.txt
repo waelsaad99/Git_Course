@@ -1,0 +1,4 @@
+origin  https://github.com/waelsaad99/Git_Course.git (fetch)
+origin  https://github.com/waelsaad99/Git_Course.git (push)
+
+credintial manager
